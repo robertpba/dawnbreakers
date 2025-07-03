@@ -1,6 +1,6 @@
 ---
 type:: event
-date:: 1844-05-22
+date:: 1844-05-22 (Gregorian)
 event_type:: proclamation
 participants:: [[Mulla-Husayn]], [[The Báb]]
 location:: [[Shiraz]]
