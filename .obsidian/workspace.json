@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "54c9c7e7b0ed54a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "653cb41b502fcd9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13034dd6512c928f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/Mullá Ḥusayn-i-Bushrú'í.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mullá Ḥusayn-i-Bushrú'í"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36b10379b111d31d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aab7080db21f0c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b176f3bc621d81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "24cddef357872de8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5eebb2c67156a371",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd18a0cc2f9dee2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a5dd0b2063b7925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e9c6fbd286e16fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "people/Mullá Ḥusayn-i-Bushrú'í.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mullá Ḥusayn-i-Bushrú'í"
+            }
+          },
+          {
+            "id": "6b9f114e79500c36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "people/Mullá Ḥusayn-i-Bushrú'í.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mullá Ḥusayn-i-Bushrú'í"
+            }
+          },
+          {
+            "id": "11b0c02bcc11b5b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6a892cefe53d23c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "people/Mullá Ḥusayn-i-Bushrú'í.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mullá Ḥusayn-i-Bushrú'í"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "timeline-view:Open timeline view": false
+    }
+  },
+  "active": "13034dd6512c928f",
+  "lastOpenFiles": [
+    "logseq/bak/logseq/config/2025-07-05T20_45_17.869Z.Desktop.edn",
+    "logseq/bak/logseq/config",
+    "logseq/bak/logseq",
+    "logseq/bak",
+    "whiteboards/68698dfd-eff4-4359-a22e-5b4a91acca7e.edn",
+    "whiteboards",
+    "logseq/custom.css",
+    "pages/contents.md",
+    "pages",
+    "logseq/config.edn",
+    "journals",
+    "logseq",
+    "Mullá Ḥusayn-i-Bushrú'í.md",
+    "people/Mullá Ḥusayn-i-Bushrú'í.md",
+    "people/Mulla-Husayn-i-Bushrui.md",
+    "Untitled.canvas",
+    "timeline.md",
+    "people/Shaykh-Ahmad-i-Ahsai.md",
+    "people/Sayyid-Kazim-i-Rashti.md",
+    "people/Mulla-Husayn.md",
+    "events/Mission-of-Shaykh-Ahmad.md",
+    "events/Declaration-of-the-Bab.md",
+    "events/Death-of-Sayyid-Kazim.md",
+    "chapters/03_The-Letter-of-the-Living.md",
+    "chapters/02_The-Call-of-Sayyid-Kazim.md",
+    "chapters/01_The-Mission-of-Shaykh-Ahmad.md",
+    "chapters/00_Introduction.md",
+    "places/Najaf.md",
+    "places/Karbila.md",
+    "places/Bahrain.md",
+    "roles/Letters-of-the-Living.md",
+    "glossary.md",
+    "index.md"
+  ]
+}
